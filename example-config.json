@@ -1,0 +1,18 @@
+{
+    "data": {
+        "user": {
+            "name": "张三",
+            "cellphone": "13010001000",
+            "gender": "男",
+            "age": 25
+        },
+        "target_job": {
+            "title": "后端工程师",
+            "salary": 10000
+        }
+    },
+    "style": {
+        "mode": "text",
+        "template": "templates/default.md"
+    }
+}
